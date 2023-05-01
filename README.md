@@ -2,6 +2,6 @@
 Entrega de los ejercicios realizados en la clase
 
 
-#  INTEGRANTES:
+#  Integrantes:
 NAHUEL, ALEXA
 
